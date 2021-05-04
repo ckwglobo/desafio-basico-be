@@ -28,8 +28,8 @@
 
 
 **O Serviço deve obrigatoriamente utilizar uma api para preencher os dados de endereço com o CEP:**
-	- **https://viacep.com.br/**
-	- Obs: De preferencia ao uso com JSON
+	-**https://viacep.com.br/**
+	-Obs: De preferencia ao uso com JSON
 
 
 **Regras**:
