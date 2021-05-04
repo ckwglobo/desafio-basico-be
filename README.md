@@ -40,7 +40,7 @@ Obs: De preferencia ao uso com JSON
 
 2. Data de nascimento deve ter o padrão dd/MM/YYYY.
 
-3. Caso tudo esteja correto deve ser amarelado no banco de dados os seguintes dados:
+3. Caso tudo esteja correto deve ser armazenado no banco de dados os seguintes dados:
 	- Nome do usuario
 	- Idade
 	- Cidade
