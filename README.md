@@ -32,11 +32,11 @@
 
 
 **Regras**:
-Caso CEP seja inválido deve retornar um erro amigavel.
+1. Caso CEP seja inválido deve retornar um erro amigavel.
 
-Data de nascimento deve ter o padrão dd/MM/YYYY.
+2. Data de nascimento deve ter o padrão dd/MM/YYYY.
 
-Caso tudo esteja correto deve ser amarelado no banco de dados os seguintes dados:
+3. Caso tudo esteja correto deve ser amarelado no banco de dados os seguintes dados:
 	- Nome do usuario
 	- Idade
 	- Cidade
