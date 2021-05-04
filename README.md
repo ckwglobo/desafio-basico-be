@@ -13,6 +13,8 @@
 - MongoDB
 
 
+*Não há restrições de uso de frameworks/ferramentas.*
+
 
 ### Criar um serviço simples de cadastro e busca de usuario com 2 endpoints:
 
@@ -30,8 +32,9 @@
 
 
 **Regras**:
-Caso cep seja invalido retornar o statusCode 412
-Data de nascimento deve ter o padrão dd/MM/YYYY , caso errado retornar 400
+Caso CEP seja inválido deve retornar um erro amigavel.
+
+Data de nascimento deve ter o padrão dd/MM/YYYY.
 
 Caso tudo esteja correto deve ser amarelado no banco de dados os seguintes dados:
 - Nome do usuario
