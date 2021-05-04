@@ -27,8 +27,9 @@
 	- Documento
 
 
-**O Serviço deve obrigatoriamente utilizar uma api para preencher os dados de cep:**
-		API:  https://viacep.com.br/
+**O Serviço deve obrigatoriamente utilizar uma api para preencher os dados de endereço com o CEP:**
+	- **https://viacep.com.br/**
+	- Obs: De preferencia ao uso com JSON
 
 
 **Regras**:
